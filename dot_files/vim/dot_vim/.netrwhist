@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =7
+let g:netrw_dirhist_7='/z/repo/gitlab/z.priv/ansible/inventory'
+let g:netrw_dirhist_6='/z/repo/gitlab/z.priv/ansible/roles/send_email/vars'
+let g:netrw_dirhist_5='/z/repo/gitlab/z.priv/ansible/group_vars'
+let g:netrw_dirhist_4='/usr/lib/python3/dist-packages/ansiblelint/rules'
+let g:netrw_dirhist_3='/home/jarvis/z'
+let g:netrw_dirhist_2='/home/jarvis/.ansible/roles/redhatofficial.rhel8_cis'
+let g:netrw_dirhist_1='/home/jarvis/z'
